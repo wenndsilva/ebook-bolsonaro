@@ -1,0 +1,7 @@
+{
+  "buildCommand": "pnpm build",
+  "startCommand": "node server.js",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
